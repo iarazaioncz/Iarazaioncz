@@ -3,7 +3,7 @@
  Meu nome é Iara Zaioncz.
 
 - Estou estudando na [Alura] (https://WWW.alura.com.br)
-- - Estou me desenvolvento na liguagem JavaScript;
+-  Estou me desenvolvento na liguagem JavaScript;
 - Ultilizo esse espaço para minhas organizações e compartilhamentos dos meus projetos;
 
   ## Você entrar em contado comigo 📫
