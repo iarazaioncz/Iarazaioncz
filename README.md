@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boa vindas ao meu prefi🖤
 
-<!--
-**iarazaioncz/Iarazaioncz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Iara Zaioncz.
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura] (https://WWW.alura.com.br)
+- - Estou me desenvolvento na liguagem JavaScript;
+- Ultilizo esse espaço para minhas organizações e compartilhamentos dos meus projetos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Você entrar em contado comigo 📫
+
+  iara.zaioncz@escola.pr.gov.br
+
+  @iarazaioncz
+  ![](https://media.tenor.com/z1YT2LePMWkAAAAi/tkthao219-peach.gif)
+    
